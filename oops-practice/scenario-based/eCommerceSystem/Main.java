@@ -11,7 +11,7 @@ public class Main {
         catalog.add(new Product(2, "Phone", 20000, 10));
         catalog.add(new Product(3, "Headphones", 2000, 20));
 
-        System.out.println("📌 Product Catalog:");
+        System.out.println(" Product Catalog:");
         for (Product p : catalog) System.out.println(p);
 
         // Customer
@@ -24,7 +24,7 @@ public class Main {
 
         //  Create Order
         Order order = new Order(5001, customer, cart);
-        System.out.println("\n✅ Order Placed! Total: ₹" + order.getTotalAmount());
+        System.out.println("\n Order Placed! Total: ₹" + order.getTotalAmount());
 
         //  Polymorphism (Try different payments)
         Payment payment = new WalletPayment(10000);
