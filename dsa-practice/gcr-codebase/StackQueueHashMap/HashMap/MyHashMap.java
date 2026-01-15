@@ -1,4 +1,4 @@
-package StackQueueHashMap.HashMap;
+
 
 class MyHashMap {
 

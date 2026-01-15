@@ -1,5 +1,3 @@
-package StackQueueHashMap.StackAndQueue;
-
 public class CircularTour {
     public static int findStartingPoint(int[] petrol, int[] distance) {
         int n = petrol.length;
