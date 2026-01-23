@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="dsa-practice/gcr-codebase/LinkedList/|dsa-practice/gcr-codebase/LinkedList/" kind="src" path=""/>
+	<classpathentry kind="src" path="dsa-practice/gcr-codebase/LinkedList"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
