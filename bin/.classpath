@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="collection-practice/scenario-based/|collection-practice/scenario-based/" kind="src" path=""/>
-	<classpathentry kind="src" path="collection-practice/scenario-based"/>
+	<classpathentry excluding="collection-practice/gcr-codebase/regex-junit/regex/|collection-practice/gcr-codebase/regex-junit/regex/" kind="src" path=""/>
+	<classpathentry kind="src" path="collection-practice/gcr-codebase/regex-junit/regex"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
