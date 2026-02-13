@@ -1,8 +1,7 @@
+package aeroVigil;
 
 public class InvalidFlightException extends Exception {
-	InvalidFlightException(String messege)
-	{
-		super("INVALID Flight NUMBER");
+	public InvalidFlightException(String msg) {
+		super(msg);
 	}
-
 }
