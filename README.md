@@ -129,4 +129,6 @@ Performed and Pushed All the questions Of Level 1 and Level 2 on GitHub and new 
 
 **🗓️ 16-feb-2026 (Monday):**Solved use cases of health clinic problem and submitted assignment of JDBC and DBMS [Check](https://github.com/MehakVarshney/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/health-clinic)
 
-**🗓️ 17-feb-2026 (Tuesday):**[Check](https://github.com/MehakVarshney/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/scenario-based/employee-wage-computation)Solved and submitted assignment of employee wage computation problem Ypdation also to old one.
+**🗓️ 17-feb-2026 (Tuesday):**[Check](https://github.com/MehakVarshney/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/scenario-based/employee-wage-computation)Solved and submitted assignment of employee wage computation problem Updation also to old one.
+
+**🗓️ 17-March-2026 (Tuesday):**[Check](https://github.com/MehakVarshney/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/scenario-based/M1)Solved M1 problems
