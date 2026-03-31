@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": "MG Road",
+    "city": "Pune",
+    "state": "MH",
+    "zip": "411001",
+    "phoneNumber": "9876543210",
+    "email": "john@gmail.com"
+  },
+  {
+    "firstName": "Anya",
+    "lastName": "Patel",
+    "address": "Station Road",
+    "city": "Pune",
+    "state": "GJ",
+    "zip": "380001",
+    "phoneNumber": "9123456789",
+    "email": "anya@gmail.com"
+  }
+]
